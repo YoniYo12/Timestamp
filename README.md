@@ -1,4 +1,3 @@
 # Timestamp Microservice
 
-This is the boilerplate code for the Timestamp Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice
-# Timestamp
+This Node.js Express project is a timestamp microservice that provides endpoints to return the current timestamp or a timestamp for a given date in both UNIX and UTC formats. It handles date validation and supports CORS
